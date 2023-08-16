@@ -23,12 +23,17 @@ h1 {
     text-align: center;
     width: 100%;
     max-width: 350px;
+    padding: 16px 0;
 }
 
 p {
     font-size: 15px;
     font-weight: 400;
+    color: hsl(220, 15%, 55%);
     text-align: center;
+    width: 100%;
+    max-width: 325px;
+    margin: 16px 0;
 }
 
 .card {
