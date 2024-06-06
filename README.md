@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/Stephanie-Dennehy/QR-Code)
-- Live Site URL: (https://vercel.com/stephanie-dennehy/qr-code/ZLTkiidRFTbq3ACtqZeDiwX9MWpc)
+- Live Site URL: (https://qr-code-opal-six.vercel.app/)
 
 ## My process
 
